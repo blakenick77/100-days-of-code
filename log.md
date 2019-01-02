@@ -10,3 +10,15 @@
 
 **Link to work:** https://www.meetup.com/python4e/events/xkzgmpyxqbnc/
 
+### Day 2: December 31, 2018  
+
+**Today's Progress**: Animate Elements At Variable Rates
+                      Animate Multiple Elements At Variable Rates
+                      Change Animation Timing with Keywords
+                      Learn How Bezier Curves Work
+**Link to work:**   https://www.freecodecamp.org/blake.nickens
+
+### Day 3: January 1, 2019
+
+**Today's Progress**: Python for Everybody: Memory
+**Link to work:**     https://www.py4e.com/lessons/memory
