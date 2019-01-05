@@ -22,3 +22,8 @@
 
 **Today's Progress**: Python for Everybody: Memory
 **Link to work:**     https://www.py4e.com/lessons/memory
+
+### Day 4: January 4, 2019
+
+**Today's Progress** Python for Everybody: Logic I'm behind on posting but doing the studying was more important 
+**Link to work:**     https://www.freecodecamp.org/blake.nickens and https://www.py4e.com/lessons/logic
